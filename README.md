@@ -39,13 +39,13 @@
 
 ## GitHub Stats
 
-![Ruchit's GitHub stats](https://github-readme-stats-ruch0401.vercel.app/api?username=harshmodi02&show_icons=true&hide_border=false&count_private=false&include_all_commits=true)
+![Ruchit's GitHub stats](https://github-readme-stats-ruch0401.vercel.app/api?username=udaykumar117&show_icons=true&hide_border=false&count_private=false&include_all_commits=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshmodi02)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=udaykumar117)](https://git.io/streak-stats)
 
 ## Top Languages Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshmodi02&layout=compact)](https://github.com/udaykumar117/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udaykumar117&layout=compact)](https://github.com/udaykumar117/github-readme-stats)
 
 [website]: https://udaykumar117.github.io/
 [linkedin]: https://www.linkedin.com/in/uday-kumar7/
